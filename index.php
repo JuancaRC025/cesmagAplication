@@ -5,14 +5,41 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="css/mdb.min.css">
+    <script src="js/mdb.min.js"></script>
 </head>
 <body>
-    <h1>Cesmag App</h1>
-<<<<<<< HEAD
-    <h3>Pagina 123</h3>
-    <h2>Tercer Repositorio</h2>
-    <h1>Cesmag 1</h1>
-=======
->>>>>>> parent of fc083ec (Segundo arch)
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Cesmag App</a>
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-mdb-toggle="collapse"
+      data-mdb-target="#navbarText"
+      aria-controls="navbarText"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <i class="fas fa-bars"></i>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarText">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Inicio</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Facultades</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Programas</a>
+        </li>
+      </ul>
+      <span class="navbar-text">
+        Acceder
+      </span>
+    </div>
+  </div>
+</nav> 
 </body>
 </html>
