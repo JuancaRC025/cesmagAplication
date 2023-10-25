@@ -8,8 +8,11 @@
 </head>
 <body>
     <h1>Cesmag App</h1>
+<<<<<<< HEAD
     <h3>Pagina 123</h3>
     <h2>Tercer Repositorio</h2>
     <h1>Cesmag 1</h1>
+=======
+>>>>>>> parent of fc083ec (Segundo arch)
 </body>
 </html>
