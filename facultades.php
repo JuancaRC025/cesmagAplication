@@ -2,6 +2,11 @@
 include 'index.php';
 include 'conexion.php';
 ?>
+<div class="container">
+
+<div aling="right">
+<a class= 'btn btn-primary'>Adicionar</a>
+</div>
 
 <h1> Listado de facultades </h1>
 <table class="table">
@@ -33,5 +38,6 @@ include 'conexion.php';
         }
         $conn->close();
     ?>
+    </div>
   </tbody>
 </table>
